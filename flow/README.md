@@ -1,2 +1,0 @@
-# Draw.io
-README.md
