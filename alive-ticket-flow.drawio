@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T05:50:06.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tHouoJPGKkQP-mKY-zX7" version="21.4.0" type="github">
-  <diagram name="페이지-1" id="Dhg5o85Xs6kbEqGewJDq">
-    <mxGraphModel dx="1368" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="1590" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-12-02T07:20:30.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ntt9mxjrUn_73GWbH5SA" version="21.4.0" type="github">
+  <diagram name="메뉴구성" id="Dhg5o85Xs6kbEqGewJDq">
+    <mxGraphModel dx="855" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="1590" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,19 +26,19 @@
           <mxGeometry x="240" y="179" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-8" value="Statistics" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="179" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b1I7pZCohgcFqv3CK_3t-10" target="b1I7pZCohgcFqv3CK_3t-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-10" value="User Info" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="840" y="179" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-12" value="Login" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1040" y="179" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-14" value="Sign in" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="179" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="179" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b1I7pZCohgcFqv3CK_3t-16" target="b1I7pZCohgcFqv3CK_3t-38">
           <mxGeometry relative="1" as="geometry" />
@@ -46,8 +46,11 @@
         <mxCell id="b1I7pZCohgcFqv3CK_3t-16" value="Ticket Details" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b1I7pZCohgcFqv3CK_3t-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b1I7pZCohgcFqv3CK_3t-18" target="b1I7pZCohgcFqv3CK_3t-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-18" value="User Update" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="840" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="561" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-22" value="계약 정보&lt;br&gt;&lt;br&gt;- 남은 긴급 건 수&lt;br&gt;- 남은 추가개발 건 수" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="541" width="120" height="70" as="geometry" />
@@ -55,14 +58,14 @@
         <mxCell id="b1I7pZCohgcFqv3CK_3t-28" value="팝업&lt;br&gt;&lt;br&gt;- 유상 계약 정보&lt;br&gt;- 무상 계약 정보" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="621" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="b1I7pZCohgcFqv3CK_3t-32" value="티켓 목록&lt;br&gt;&lt;br&gt;- Key 값&lt;br&gt;- 최초 등록일&lt;br&gt;- 등록자&lt;br&gt;- 제목&lt;br&gt;- 중요도&lt;br&gt;- 긴급여부&lt;br&gt;- 추가개발여부&lt;br&gt;- 진행 상태 (배포예정일)&lt;br&gt;- 오류 메뉴 명&lt;br&gt;- 업데이트 읽음 여부&lt;br&gt;- 구분 값&lt;br&gt;- 리스트형 / 카드형 구분" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="120" height="220" as="geometry" />
+        <mxCell id="b1I7pZCohgcFqv3CK_3t-32" value="티켓 목록&lt;br&gt;&lt;br&gt;- Key 값&lt;br&gt;- 최초 등록일&lt;br&gt;- 등록자&lt;br&gt;- 제목&lt;br&gt;- 중요도&lt;br&gt;- 긴급여부&lt;br&gt;- 추가개발여부&lt;br&gt;- 진행 상태 (배포예정일)&lt;br&gt;- 오류 메뉴 명&lt;br&gt;- 업데이트 읽음 여부&lt;br&gt;- 구분 값&lt;br&gt;- 리스트형 / 카드형 구분&lt;br&gt;&amp;nbsp; (기본 : 카드형 / 리스트형 선택 시 로컬스토리지저장 &amp;gt; created 시점에 박아넣기)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-35" value="팝업&lt;br&gt;&lt;br&gt;- 기본 공지사항&lt;br&gt;&amp;nbsp; (오늘 보지않기 기능&lt;br&gt;&amp;nbsp; &amp;nbsp;set Cookie)" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-37" value="필터&lt;br&gt;&lt;br&gt;- 제목&lt;br&gt;- 메뉴&lt;br&gt;- 날짜&lt;br&gt;- 우선순위&lt;br&gt;- 추가개발&lt;br&gt;- 접수 상태&lt;br&gt;- 구분&lt;br&gt;- 읽음 상태" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="240" y="520" width="120" height="160" as="geometry" />
+          <mxGeometry x="240" y="580" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-38" value="티켓 상세정보&lt;br&gt;&lt;br&gt;- 제목&lt;br&gt;- 등록자&lt;br&gt;- Key 넘버&lt;br&gt;- 상세 내용&lt;br&gt;- 첨부파일&lt;br&gt;- 상태&lt;br&gt;- 구분" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="120" height="150" as="geometry" />
@@ -77,10 +80,13 @@
           <mxGeometry x="440" y="565" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-43" value="유저 정보&lt;br&gt;&lt;br&gt;- 등록정보&lt;br&gt;회사(학교)&lt;br&gt;프로젝트명&lt;br&gt;내 이름&lt;br&gt;연락처 (회사)&lt;br&gt;연락처 (핸드폰)&lt;br&gt;이메일 주소" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="840" y="280" width="120" height="150" as="geometry" />
+          <mxGeometry x="640" y="281" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="b1I7pZCohgcFqv3CK_3t-45" value="프로젝트 정보&lt;br&gt;&lt;br&gt;- 잔여긴급 건&lt;br&gt;- 잔여 추가개발 건&lt;br&gt;- 계약기간" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="840" y="450" width="120" height="90" as="geometry" />
+          <mxGeometry x="640" y="451" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b1I7pZCohgcFqv3CK_3t-46" value="유저 정보&lt;br&gt;&lt;br&gt;- 등록정보&amp;nbsp;&lt;br&gt;회사(학교) (수정불가)&lt;br&gt;프로젝트명 (수정불가)&lt;br&gt;내 이름&lt;br&gt;연락처 (회사)&lt;br&gt;연락처 (핸드폰)&lt;br&gt;이메일 주소" style="whiteSpace=wrap;html=1;rounded=0;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="640" y="680" width="120" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
