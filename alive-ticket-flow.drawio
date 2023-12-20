@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T01:03:41.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lu8xX4KQ78yBdIgY-dBX" version="22.1.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-20T07:33:54.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Cm0EDOusQBrgHXcHoPyx" version="22.1.11" type="github" pages="2">
   <diagram name="사용자 메뉴구성" id="Dhg5o85Xs6kbEqGewJDq">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="1590" math="0" shadow="0">
       <root>
@@ -92,78 +92,84 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qH7Ucbb5K0mWtdfLgTGh" name="관리자 메뉴구성">
-    <mxGraphModel dx="1912" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zUvXvfdrQB2Udni6qUKu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUvXvfdrQB2Udni6qUKu-2" target="zUvXvfdrQB2Udni6qUKu-3">
+        <mxCell id="zUvXvfdrQB2Udni6qUKu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zUvXvfdrQB2Udni6qUKu-2" target="zUvXvfdrQB2Udni6qUKu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zUvXvfdrQB2Udni6qUKu-2" value="사용자 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="zUvXvfdrQB2Udni6qUKu-2" value="사용자 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zUvXvfdrQB2Udni6qUKu-3" value="고객 관리" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="zUvXvfdrQB2Udni6qUKu-3" value="고객 관리" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zUvXvfdrQB2Udni6qUKu-5" value="고객 승인" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="zUvXvfdrQB2Udni6qUKu-5" value="고객 승인" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zUvXvfdrQB2Udni6qUKu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zUvXvfdrQB2Udni6qUKu-6" target="zUvXvfdrQB2Udni6qUKu-7">
+        <mxCell id="zUvXvfdrQB2Udni6qUKu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zUvXvfdrQB2Udni6qUKu-6" target="zUvXvfdrQB2Udni6qUKu-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zUvXvfdrQB2Udni6qUKu-6" value="프로젝트 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="zUvXvfdrQB2Udni6qUKu-6" value="프로젝트 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zUvXvfdrQB2Udni6qUKu-7" value="업체 정보" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="zUvXvfdrQB2Udni6qUKu-7" value="업체 정보" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 이름&lt;br&gt;&amp;nbsp;- 부서&lt;br&gt;&amp;nbsp;- 이메일&lt;br&gt;&amp;nbsp;- 사무실 번호&lt;br&gt;&amp;nbsp;- 핸드폰 번호&lt;br&gt;&amp;nbsp;- 비밀번호 초기화&lt;br&gt;&lt;/span&gt;&amp;nbsp;- 사용자 정보 변경&lt;br&gt;&amp;nbsp;- 승인되지 않은&lt;br&gt;&amp;nbsp; &amp;nbsp;사용자는 안나옴&lt;br&gt;&amp;nbsp;- 승인 대기로는&lt;br&gt;&amp;nbsp; &amp;nbsp;상태 변경 불가하게" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 이름&lt;br&gt;&amp;nbsp;- 부서&lt;br&gt;&amp;nbsp;- 이메일&lt;br&gt;&amp;nbsp;- 사무실 번호&lt;br&gt;&amp;nbsp;- 핸드폰 번호&lt;br&gt;&amp;nbsp;- 비밀번호 초기화&lt;br&gt;&lt;/span&gt;&amp;nbsp;- 사용자 정보 변경&lt;br&gt;&amp;nbsp;- 승인되지 않은&lt;br&gt;&amp;nbsp; &amp;nbsp;사용자는 안나옴&lt;br&gt;&amp;nbsp;- 승인 대기로는&lt;br&gt;&amp;nbsp; &amp;nbsp;상태 변경 불가하게" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="380" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-2" value="승인 대기&lt;br&gt;승인&lt;br&gt;반려" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-2" value="승인 대기&lt;br&gt;승인&lt;br&gt;반려" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-7" value="유상&lt;br&gt;무상&lt;br&gt;계약대기&lt;br&gt;계약종료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-7" value="유상&lt;br&gt;무상&lt;br&gt;계약대기&lt;br&gt;계약종료" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-8" value="&amp;nbsp;- 승인대기, 반려&lt;br&gt;&amp;nbsp; &amp;nbsp;상태의 사용자만" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-8" value="&amp;nbsp;- 승인대기, 반려&lt;br&gt;&amp;nbsp; &amp;nbsp;상태의 사용자만" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-9" value="&amp;nbsp;- 계약 시작 종료일&lt;br&gt;&amp;nbsp;- 학교명(업체명)&lt;br&gt;&amp;nbsp;- 프로젝트명&lt;br&gt;&amp;nbsp;- 업체 주요 담당자&lt;br&gt;&amp;nbsp;- 사내 처리 담당자&lt;br&gt;&amp;nbsp;- 추가개발 가능 건수&lt;br&gt;&amp;nbsp;- 긴급 가능 건수&lt;br&gt;&amp;nbsp;- 긴급건수 추가기능" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-9" value="&amp;nbsp;- 계약 시작 종료일&lt;br&gt;&amp;nbsp;- 학교명(업체명)&lt;br&gt;&amp;nbsp;- 프로젝트명&lt;br&gt;&amp;nbsp;- 업체 주요 담당자&lt;br&gt;&amp;nbsp;- 사내 처리 담당자&lt;br&gt;&amp;nbsp;- 추가개발 가능 건수&lt;br&gt;&amp;nbsp;- 긴급 가능 건수&lt;br&gt;&amp;nbsp;- 긴급건수 추가기능" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="310" y="550" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-10" value="계약 종료 : 기간이 종료되었을 경우&lt;br&gt;계약 대기 : 종료 임박 혹은 종료된 이후에도&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 계약 담당자에게 확인 후 계약이&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 진행 중이라면 상태 값 변경&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 모든 시스템을 사용할 수 있음" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-10" value="계약 종료 : 기간이 종료되었을 경우&lt;br&gt;계약 대기 : 종료 임박 혹은 종료된 이후에도&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 계약 담당자에게 확인 후 계약이&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 진행 중이라면 상태 값 변경&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 모든 시스템을 사용할 수 있음" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="433" y="30" width="243" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-12" value="사내 사용자 관리" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-12" value="사내 사용자 관리" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="730" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-13" value="&amp;nbsp;- 사용자 등록&lt;br&gt;&amp;nbsp;- 비밀번호 초기화&lt;br&gt;&amp;nbsp;- 사용 미사용 처리&lt;br&gt;&amp;nbsp;- 권한 변경" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-13" value="&amp;nbsp;- 사용자 등록&lt;br&gt;&amp;nbsp;- 비밀번호 초기화&lt;br&gt;&amp;nbsp;- 사용 미사용 처리&lt;br&gt;&amp;nbsp;- 권한 변경" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-15" value="사용자 상태값" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-15" value="사용자 상태값" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-16" value="고객&lt;br&gt;관리자&lt;br&gt;운영팀&lt;br&gt;프로젝트 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-16" value="고객&lt;br&gt;관리자&lt;br&gt;운영팀&lt;br&gt;프로젝트 관리" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="40" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-17" value="권한 종류" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-17" value="권한 종류" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-18" value="프로젝트 상태값" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-18" value="프로젝트 상태값" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-19" value="&amp;nbsp;- 학교명 (업체명)&lt;br&gt;&amp;nbsp;- 사용 미사용 처리만&lt;br&gt;&amp;nbsp;- 미사용 처리 시&lt;br&gt;&amp;nbsp; &amp;nbsp;관련 프로젝트&lt;br&gt;&amp;nbsp; &amp;nbsp;전부 미사용처리" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-19" value="&amp;nbsp;- 학교명 (업체명)&lt;br&gt;&amp;nbsp;- 사용 미사용 처리만&lt;br&gt;&amp;nbsp;- 미사용 처리 시&lt;br&gt;&amp;nbsp; &amp;nbsp;관련 프로젝트&lt;br&gt;&amp;nbsp; &amp;nbsp;전부 미사용처리" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="310" y="380" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-20" value="프로젝트 정보" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ufiz34e84rqHSrVBdS8h-20" value="프로젝트 정보" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F7qib2g9Qz7vj8Li9isp-1" value="&amp;nbsp;- 긴급건수 추가기능&lt;br&gt;사유를 적고 히스토리&amp;nbsp;테이블에 쌓는다.&lt;br&gt;히스토리 테이블은&amp;nbsp;히스토리 용도로만쓰고&lt;br&gt;프로젝트에 직접&amp;nbsp;update 때린다.&lt;br&gt;긴급건수 추가에서 등록된 애들이랑&lt;br&gt;sum 하는게 아니다." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="F7qib2g9Qz7vj8Li9isp-1" value="&amp;nbsp;- 긴급건수 추가기능&lt;br&gt;사유를 적고 히스토리&amp;nbsp;테이블에 쌓는다.&lt;br&gt;히스토리 테이블은&amp;nbsp;히스토리 용도로만쓰고&lt;br&gt;프로젝트에 직접&amp;nbsp;update 때린다.&lt;br&gt;긴급건수 추가에서 등록된 애들이랑&lt;br&gt;sum 하는게 아니다." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="260" y="720" width="240" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="F7qib2g9Qz7vj8Li9isp-2" value="Insert , Update는 관리자만 가능" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F7qib2g9Qz7vj8Li9isp-2" value="Insert , Update는 관리자만 가능" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dr1itkX9Nl5cHkAuPNB4-1" value="SR 관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dr1itkX9Nl5cHkAuPNB4-2" value="통계" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
