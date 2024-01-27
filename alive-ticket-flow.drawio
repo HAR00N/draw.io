@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T11:10:05.814Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zlzxqSVYgI5KyAGwVgrk" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-27T11:16:39.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p19TA09Me4XUjZ_RFjEw" version="23.0.2" type="github" pages="2">
   <diagram name="사용자 메뉴구성" id="Dhg5o85Xs6kbEqGewJDq">
     <mxGraphModel dx="1368" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="1590" math="0" shadow="0">
       <root>
@@ -173,6 +173,12 @@
         </mxCell>
         <mxCell id="-KmnBJDNkYP-uwhkc2xP-1" value="고객 담당자는 프로젝트 당&lt;br&gt;1명 설정되며 고객 측&lt;br&gt;사용자를 승인/반려할 수 있다" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="40" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_GYk0qYfDhTvsrZPSWFg-1" value="&amp;nbsp;- 학교&lt;br&gt;&amp;nbsp;- 프로젝트&lt;br&gt;&amp;nbsp;- 부여일자&lt;br&gt;&amp;nbsp;- 부여자&lt;br&gt;&amp;nbsp;- 사유" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="920" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_GYk0qYfDhTvsrZPSWFg-2" value="긴급건수 추가내역" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="880" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
