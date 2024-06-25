@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T04:50:07.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Gqt3zhkYe1Diui_8kXFA" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T05:31:10.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ebFTtqdPj4nENqpbpIXC" version="24.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
           <mxGeometry y="390" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U3-9mcuJXix0QmTqWsMh-21" value="DIAG_EXAM_ANS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="546" y="80" width="140" height="210" as="geometry" />
+          <mxGeometry x="546" y="80" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="U3-9mcuJXix0QmTqWsMh-22" value="DEA_ID&lt;br&gt;시험 문항 보기 ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-21">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -104,35 +104,71 @@
         <mxCell id="U3-9mcuJXix0QmTqWsMh-48" value="DEA_ORDER&lt;div&gt;시험 문항 보기 순서&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-21">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U3-9mcuJXix0QmTqWsMh-47" value="REG_DATE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-21">
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-86" value="DEA_FILE_ID&lt;br&gt;시험 문항 보기 파일" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-21">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-47" value="REG_DATE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-21">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U3-9mcuJXix0QmTqWsMh-46" value="REG_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-21">
-          <mxGeometry y="180" width="140" height="30" as="geometry" />
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U3-9mcuJXix0QmTqWsMh-25" value="DIAG_EXAM_MNG" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="779" y="80" width="140" height="240" as="geometry" />
+          <mxGeometry x="779" y="80" width="150" height="570" as="geometry" />
         </mxCell>
         <mxCell id="U3-9mcuJXix0QmTqWsMh-26" value="DEM_ID&lt;br&gt;시험 실시계획 ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U3-9mcuJXix0QmTqWsMh-27" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-27" value="DEP_ID_LIST&lt;div&gt;시험지 ID 리스트&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U3-9mcuJXix0QmTqWsMh-28" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-28" value="DEP_CNT&lt;div&gt;시험지 갯수&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U3-9mcuJXix0QmTqWsMh-52" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
-          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-52" value="DEM_TITLE&lt;div&gt;시험 실시계획 명&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="120" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U3-9mcuJXix0QmTqWsMh-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-51" value="DEM_STR_DATE&lt;div&gt;시험 실시 시작일, 시간&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="150" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U3-9mcuJXix0QmTqWsMh-50" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
-          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-50" value="DEM_END_DATE&lt;div&gt;시험 실시 종료일, 시간&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="180" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U3-9mcuJXix0QmTqWsMh-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
-          <mxGeometry y="210" width="140" height="30" as="geometry" />
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-49" value="DEM_REG_DIV&lt;div&gt;시험 등록 구분&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="210" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-77" value="DEM_REFER_ID&lt;div&gt;시험 연계 ID&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-76" value="MANUAL_TARGET_YN&lt;div&gt;대상자 직접등록 여부&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="270" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-78" value="EXAM_ACT_TARGET&lt;div&gt;시험 대상자&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="300" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-75" value="MAJOR_TARGET_YN&lt;div&gt;특정 대학/학과 여부&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-79" value="EXAM_MAJOR_TARGET&lt;div&gt;대상 학과&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-84" value="REG_DATE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="390" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-83" value="REG_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="420" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-82" value="UPD_DATE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="450" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-81" value="UPD_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="480" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-80" value="USE_YN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="510" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U3-9mcuJXix0QmTqWsMh-85" value="DEL_YN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="U3-9mcuJXix0QmTqWsMh-25">
+          <mxGeometry y="540" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U3-9mcuJXix0QmTqWsMh-29" value="DIAG_EXAM_TARGET" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1012" y="80" width="140" height="240" as="geometry" />
