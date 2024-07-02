@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T11:16:39.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p19TA09Me4XUjZ_RFjEw" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-02T02:24:31.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vmKMX_PPYLIPg1AMUJLl" version="24.6.4" type="github" pages="2">
   <diagram name="사용자 메뉴구성" id="Dhg5o85Xs6kbEqGewJDq">
     <mxGraphModel dx="1368" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="1590" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qH7Ucbb5K0mWtdfLgTGh" name="관리자 메뉴구성">
-    <mxGraphModel dx="1140" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,8 +123,8 @@
         <mxCell id="ufiz34e84rqHSrVBdS8h-2" value="승인 대기&lt;br&gt;승인&lt;br&gt;반려" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-7" value="유상&lt;br&gt;무상&lt;br&gt;계약대기&lt;br&gt;계약종료" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="40" width="90" height="80" as="geometry" />
+        <mxCell id="ufiz34e84rqHSrVBdS8h-7" value="&lt;div&gt;개발&lt;/div&gt;&lt;div&gt;고도화&lt;/div&gt;유상&lt;br&gt;무상&lt;br&gt;계약대기&lt;br&gt;계약종료" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="40" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ufiz34e84rqHSrVBdS8h-8" value="&amp;nbsp;- 승인대기, 반려&lt;br&gt;&amp;nbsp; &amp;nbsp;상태의 사용자만" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
@@ -144,8 +144,8 @@
         <mxCell id="ufiz34e84rqHSrVBdS8h-15" value="사용자 상태값" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ufiz34e84rqHSrVBdS8h-16" value="고객&lt;br&gt;담당자(고객)&lt;br&gt;관리자&lt;br&gt;운영팀&lt;br&gt;프로젝트 관리" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="40" width="90" height="80" as="geometry" />
+        <mxCell id="ufiz34e84rqHSrVBdS8h-16" value="고객&lt;br&gt;담당자(고객)&lt;br&gt;관리자&lt;div&gt;개발팀&lt;br&gt;운영팀&lt;div&gt;베트남 운영&lt;br&gt;프로젝트 관리&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="40" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ufiz34e84rqHSrVBdS8h-17" value="권한 종류" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="10" width="90" height="30" as="geometry" />
@@ -171,13 +171,13 @@
         <mxCell id="dr1itkX9Nl5cHkAuPNB4-2" value="통계" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="767" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-KmnBJDNkYP-uwhkc2xP-1" value="고객 담당자는 프로젝트 당&lt;br&gt;1명 설정되며 고객 측&lt;br&gt;사용자를 승인/반려할 수 있다" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-KmnBJDNkYP-uwhkc2xP-1" value="고객 담당자는 프로젝트 당&lt;br&gt;1명 설정되며 고객 측&lt;br&gt;사용자를 승인/반려할 수 있다" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="40" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_GYk0qYfDhTvsrZPSWFg-1" value="&amp;nbsp;- 학교&lt;br&gt;&amp;nbsp;- 프로젝트&lt;br&gt;&amp;nbsp;- 부여일자&lt;br&gt;&amp;nbsp;- 부여자&lt;br&gt;&amp;nbsp;- 사유" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="_GYk0qYfDhTvsrZPSWFg-1" value="&amp;nbsp;- 학교&lt;br&gt;&amp;nbsp;- 프로젝트&lt;br&gt;&amp;nbsp;- 부여일자&lt;br&gt;&amp;nbsp;- 부여자&lt;br&gt;&amp;nbsp;- 사유" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="310" y="920" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_GYk0qYfDhTvsrZPSWFg-2" value="긴급건수 추가내역" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="_GYk0qYfDhTvsrZPSWFg-2" value="긴급건수 추가내역" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="880" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
