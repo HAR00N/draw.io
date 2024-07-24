@@ -79,26 +79,14 @@
         <mxCell id="Mi6DG5pq5IE6fielcA4b-2" value="ABILITY_RATIO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="j0opT0RJ9Mp6I-7BXggS-9" vertex="1">
           <mxGeometry y="130" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j0opT0RJ9Mp6I-7BXggS-13" value="&lt;div&gt;SDA_REWARD_INFO&lt;/div&gt;자기주도 활동 적립 정보" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="80" width="180" height="250" as="geometry" />
+        <mxCell id="j0opT0RJ9Mp6I-7BXggS-13" value="&lt;div&gt;SDA_BULK_REWARD_HIS&lt;/div&gt;자기주도 활동 일괄 적립 내역" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="80" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="j0opT0RJ9Mp6I-7BXggS-14" value="SRI_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="j0opT0RJ9Mp6I-7BXggS-13" vertex="1">
-          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        <mxCell id="j0opT0RJ9Mp6I-7BXggS-14" value="SBH_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="j0opT0RJ9Mp6I-7BXggS-13" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j0opT0RJ9Mp6I-7BXggS-15" value="SDA_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="j0opT0RJ9Mp6I-7BXggS-13" vertex="1">
-          <mxGeometry y="60" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Mi6DG5pq5IE6fielcA4b-29" value="REWARD_MILEAGE&lt;div&gt;적립/구간별/기준적립 마일리지&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="j0opT0RJ9Mp6I-7BXggS-13" vertex="1">
-          <mxGeometry y="90" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Mi6DG5pq5IE6fielcA4b-28" value="REWARD_CNT_LIMIT&lt;div&gt;적립 횟수 제한&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="j0opT0RJ9Mp6I-7BXggS-13" vertex="1">
-          <mxGeometry y="130" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Mi6DG5pq5IE6fielcA4b-27" value="REWARD_SGMNT_NAME&lt;div&gt;적립 구간 명칭&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="j0opT0RJ9Mp6I-7BXggS-13" vertex="1">
-          <mxGeometry y="170" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Mi6DG5pq5IE6fielcA4b-26" value="NUMERAL_DIV&lt;div&gt;비례 단위&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="j0opT0RJ9Mp6I-7BXggS-13" vertex="1">
-          <mxGeometry y="210" width="180" height="40" as="geometry" />
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j0opT0RJ9Mp6I-7BXggS-17" value="SDA_MILEAGE_APPLY&lt;br&gt;자기주도 활동 마일리지 신청" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="80" width="180" height="450" as="geometry" />
@@ -201,6 +189,27 @@
         </mxCell>
         <mxCell id="Mi6DG5pq5IE6fielcA4b-17" value="ABILITY_RATIO" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="j0opT0RJ9Mp6I-7BXggS-25" vertex="1">
           <mxGeometry y="130" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tptiqFV7EbvQXUUOifpH-2" value="&lt;div&gt;SDA_REWARD_INFO&lt;/div&gt;자기주도 활동 적립 정보" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="tptiqFV7EbvQXUUOifpH-3" value="SRI_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tptiqFV7EbvQXUUOifpH-2">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tptiqFV7EbvQXUUOifpH-4" value="SDA_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tptiqFV7EbvQXUUOifpH-2">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tptiqFV7EbvQXUUOifpH-5" value="REWARD_MILEAGE&lt;div&gt;적립/구간별/기준적립 마일리지&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tptiqFV7EbvQXUUOifpH-2">
+          <mxGeometry y="90" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tptiqFV7EbvQXUUOifpH-6" value="REWARD_CNT_LIMIT&lt;div&gt;적립 횟수 제한&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tptiqFV7EbvQXUUOifpH-2">
+          <mxGeometry y="130" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tptiqFV7EbvQXUUOifpH-7" value="REWARD_SGMNT_NAME&lt;div&gt;적립 구간 명칭&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tptiqFV7EbvQXUUOifpH-2">
+          <mxGeometry y="170" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tptiqFV7EbvQXUUOifpH-8" value="NUMERAL_DIV&lt;div&gt;비례 단위&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="tptiqFV7EbvQXUUOifpH-2">
+          <mxGeometry y="210" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
