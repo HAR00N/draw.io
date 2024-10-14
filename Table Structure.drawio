@@ -172,6 +172,21 @@
         <mxCell id="76L2uNF7N2ts1SJF8EZe-12" value="학점 기준" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-8">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-23" value="&lt;div&gt;UCP_MICRO_&lt;span style=&quot;background-color: initial;&quot;&gt;CMPLT_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SBJT&lt;/span&gt;&lt;/div&gt;디그리교육과정 이수영역 과목 정보&lt;div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-24" value="UCS_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-25" value="UCI_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-26" value="과목코드" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-27" value="USE_YN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
+          <mxGeometry y="120" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
