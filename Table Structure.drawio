@@ -124,19 +124,19 @@
         <mxCell id="76L2uNF7N2ts1SJF8EZe-2" value="UMI_INFO&lt;br&gt;디그리교육과정 안내" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
           <mxGeometry y="90" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76L2uNF7N2ts1SJF8EZe-3" value="평점 기준" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-3" value="AVG_STNRD&lt;br&gt;평점 기준" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
           <mxGeometry y="120" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76L2uNF7N2ts1SJF8EZe-4" value="합계학점 기준 여부" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-4" value="&lt;div&gt;SUM_CREDIT_YN&lt;/div&gt;합계학점 기준 여부" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
           <mxGeometry y="150" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76L2uNF7N2ts1SJF8EZe-5" value="합계학점 기준 점수" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-5" value="&lt;div&gt;SUM_CREDIT_STNRD&lt;br&gt;&lt;/div&gt;합계학점 기준 점수" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
           <mxGeometry y="180" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76L2uNF7N2ts1SJF8EZe-6" value="디그리 인증 구분" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-6" value="&lt;div&gt;DEGREE_DIV&lt;/div&gt;디그리 인증 구분" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
           <mxGeometry y="210" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76L2uNF7N2ts1SJF8EZe-7" value="이수제한학과 (&quot;|&quot; 구분)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-7" value="&lt;div&gt;CMPLT_BAN_HAKGUA&lt;/div&gt;이수제한학과 (&quot;|&quot; 구분)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
           <mxGeometry y="240" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="76L2uNF7N2ts1SJF8EZe-17" value="REG_DATE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sUbPIjoTc-i3IHgSpDvl-5">
@@ -166,13 +166,13 @@
         <mxCell id="76L2uNF7N2ts1SJF8EZe-9" value="UCI_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-8">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76L2uNF7N2ts1SJF8EZe-10" value="UMI_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-8">
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-10" value="UMI_ID&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;디그리교육과정 정보 ID&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-8">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="76L2uNF7N2ts1SJF8EZe-11" value="UCI_NM&lt;br&gt;이수 영역 명" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-8">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76L2uNF7N2ts1SJF8EZe-12" value="학점 기준" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-8">
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-12" value="CREDIT_STNRD&lt;br&gt;학점 기준" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-8">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="76L2uNF7N2ts1SJF8EZe-23" value="&lt;div&gt;UCP_MICRO_&lt;span style=&quot;background-color: initial;&quot;&gt;CMPLT_&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SBJT&lt;/span&gt;&lt;/div&gt;디그리교육과정 이수영역 과목 정보&lt;div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -181,10 +181,10 @@
         <mxCell id="76L2uNF7N2ts1SJF8EZe-24" value="UCS_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76L2uNF7N2ts1SJF8EZe-25" value="UCI_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-25" value="UCI_ID&lt;br&gt;&lt;span style=&quot;text-align: center;&quot;&gt;디그리교육과정 이수영역 정보 ID&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
           <mxGeometry y="60" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="76L2uNF7N2ts1SJF8EZe-26" value="과목코드" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
+        <mxCell id="76L2uNF7N2ts1SJF8EZe-26" value="&lt;div&gt;SBJT_KEY_ID&lt;/div&gt;교과목코드" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
           <mxGeometry y="90" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="76L2uNF7N2ts1SJF8EZe-27" value="USE_YN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="76L2uNF7N2ts1SJF8EZe-23">
